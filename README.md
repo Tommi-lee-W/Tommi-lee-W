@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on ...new FullStackApplication projects in any kind of use cases.
 - 📫 How to reach me ... ...not... all meta Networks is disabled to me. :)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tommi-lee-W&layout=compact)
